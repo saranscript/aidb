@@ -1,0 +1,2 @@
+# aidb
+A curated list of awesome AI Tools, Use cases, Papers, Code, Learn, Books, Startups, Marketplaces, Conferences and Misc
